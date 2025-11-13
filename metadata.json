@@ -1,0 +1,5 @@
+{
+  "name": "SmART AI Editor Assistant",
+  "description": "An AI-powered assistant to generate and edit images, videos, and text content for Instagram. Leverage the power of Gemini, Imagen, and Veo to create posts, reels, and stories, all optimized with preset aspect ratios.",
+  "requestFramePermissions": []
+}
